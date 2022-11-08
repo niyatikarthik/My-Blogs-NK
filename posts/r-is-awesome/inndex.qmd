@@ -1,0 +1,9 @@
+---
+title: "My first blog - R is awesome"
+author: "Niyati"
+date: "2022-11-07"
+categories: [R,codes]
+---
+
+This is the first blog on R.Stay tuned for more
+
